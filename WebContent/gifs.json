@@ -1,0 +1,46 @@
+[
+	{
+		"nombre" : "esconderse",
+		"categoria" : "esconder,arbusto",
+		"url" : "https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif"
+	},
+	
+	{
+		"nombre" : "cayendo",
+		"categoria" : "homero,escalera",
+		"url" : "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2016/05/homero.gif?fit=640%2C360&quality=80&ssl=1"
+	},
+	
+	{
+		"nombre" : "rata",
+		"categoria" : "bart,rata",
+		"url" : "https://pa1.narvii.com/6370/6bc15377558c897fdbd5ae0e9d917984994a6061_hq.gif"
+	},
+	
+	{
+		"nombre" : "feliz",
+		"categoria" : "bailar,feliz",
+		"url" : "https://media3.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif?cid=1521963e5b2d9158544b6338365cf74f"
+	},
+	
+	{
+		"nombre" : "durmiendo",
+		"categoria" : "dormir,estudia",
+		"url" : "https://thumbs.gfycat.com/BabyishChillyHuemul-size_restricted.gif"
+	},
+	
+	{
+		"nombre" : "comiendo",
+		"categoria" : "rosquillas,comer",
+		"url" : "https://media1.giphy.com/media/3u1bKI2ve3G3S/source.gif"
+	},
+	
+	{
+		"nombre" : "Homero piensa",
+		"categoria" : "cerebro,pensar",
+		"url" : "https://k60.kn3.net/taringa/A/F/1/2/4/3/vagonettas/190.gif"
+	}
+
+]
+
+
