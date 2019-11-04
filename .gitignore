@@ -1,5 +1,7 @@
-
+#Archivos que no necesitaremos, porque solo nos interesa el codigo.
+#Carpetas que no nos interesan
 /build/
 .settings/
+#Archivos que no nos interesan
 .classpath
 .project
